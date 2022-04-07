@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Your task is to make function, which returns the sum of a sequence of integers.
