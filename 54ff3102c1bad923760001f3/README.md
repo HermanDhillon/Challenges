@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Return the number (count) of vowels in the given string. 
