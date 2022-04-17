@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 There is a bus moving in the city, and it takes and drop some people in each bus stop.
