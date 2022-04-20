@@ -6,6 +6,8 @@
 
 [Javascript](./javascript1.js)
 
+[Javascript](./javascript2.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Your task is to create a function that does four basic mathematical operations.
