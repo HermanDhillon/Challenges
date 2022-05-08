@@ -1,0 +1,1 @@
+const arr = N => N ? [...Array(N)].map((e,i)=> i): [];
