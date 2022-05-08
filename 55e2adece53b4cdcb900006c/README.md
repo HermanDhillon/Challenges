@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Two tortoises named ***A*** and ***B*** must run a race. ***A*** starts with an average speed of ```720 feet per hour```.
