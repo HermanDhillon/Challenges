@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Complete the solution so that the function will break up camel casing, using a space between words.
