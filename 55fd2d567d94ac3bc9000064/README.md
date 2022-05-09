@@ -4,6 +4,8 @@
 
 [Javascript](./javascript.js)
 
+[Javascript](./javascript1.js)
+
 <!-- END LANGUAGE_LINKS -->
 
 Given the triangle of consecutive odd numbers:
